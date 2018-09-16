@@ -17,7 +17,12 @@ html {
   font-size: 100%;
 }
 
-body {
+table {
+    border: 1px solid black;
+} 
+
+
+ body {
 	background:#cf451f;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
