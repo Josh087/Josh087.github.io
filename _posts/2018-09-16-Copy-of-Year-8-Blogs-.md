@@ -1,5 +1,5 @@
 ---
-title: Copy of Year 8 Blogs 
+title: 10-09-18 Making our blogs.
 layout: post
 author: joshua.mandeville
 permalink: /copy-of-year-8-blogs-/
